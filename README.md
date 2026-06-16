@@ -25,3 +25,5 @@ Algorithms · Competitive Programming · Compilers · Programming Languages · S
 ## Contact
 
 📫 Reach me at: [mgullapalli6@gatech.edu](mailto:mgullapalli6@gatech.edu)
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,js,latex,git,linux,cmake,vscode)](https://skillicons.dev)
