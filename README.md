@@ -26,4 +26,10 @@ Algorithms · Competitive Programming · Compilers · Programming Languages · S
 
 📫 Reach me at: [mgullapalli6@gatech.edu](mailto:mgullapalli6@gatech.edu)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,js,latex,git,linux,cmake,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,js,latex,git,linux,cmake,docker,aws,pytorch,nodejs,react,firebase,vscode)](https://skillicons.dev)
+
+**Languages:** C++, Python, C, JavaScript, Java, SQL, VHDL  
+**Systems:** Linux, SSH, Git, Docker, RHEL/PACE HPC, distributed logs, observability tooling  
+**AI/Data:** PyTorch, NumPy, Pandas, Scikit-Learn, Jupyter, LangChain, genetic algorithms, neural architecture search  
+**Algorithms:** STL, custom data structures, graph/search algorithms, complexity analysis, competitive programming  
+**Tooling:** CI/CD, testing, documentation, REST APIs, AWS, Firebase, Google Calendar API
