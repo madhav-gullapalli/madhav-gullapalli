@@ -28,6 +28,8 @@ Algorithms · Competitive Programming · Compilers · Programming Languages · S
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,js,latex,git,linux,cmake,docker,aws,pytorch,nodejs,react,firebase,vscode)](https://skillicons.dev)
 
+**Focus areas:** Algorithms, compilers/language tooling, systems, AI research infrastructure, competitive programming, performance tooling
+
 **Languages:** C++, Python, C, JavaScript, Java, SQL, VHDL  
 **Systems:** Linux, SSH, Git, Docker, RHEL/PACE HPC, distributed logs, observability tooling  
 **AI/Data:** PyTorch, NumPy, Pandas, Scikit-Learn, Jupyter, LangChain, genetic algorithms, neural architecture search  
